@@ -1,0 +1,1 @@
+ceci est l'api du modele qui a ete fait par le groupe generation miracles composer du developpeur backend Armand Ouedraogo ,du developpeur frontend Evrard Kobende, de notre brillante champione d'art oratoire Eva Kazienga, du developpeur flutter Eliele Yankiné et de Mme DA
